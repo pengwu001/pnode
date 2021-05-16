@@ -11,7 +11,7 @@
           class="right"
         >
           <template #header>
-            <span v-if="userInfo">个人信息</span>
+            <span v-if="userInfo">个人信息01</span>
             <span v-else>网站信息</span>
           </template>
           <template #content>
