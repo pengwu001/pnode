@@ -1,2 +1,0 @@
-# pnode
-hello txt
