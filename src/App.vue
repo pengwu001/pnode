@@ -23,7 +23,7 @@
               <p style="font-size: 12px">“这家伙什么个性签名都没有留下”</p>
             </div>
             <div v-else>
-              <p>PNode：js专业中文社区</p>
+              <p>PNode：js很专业的中文社区</p>
               <el-button size="small" type="primary"
                 ><router-link style="color: #fff" to="/login"
                   >登录</router-link
